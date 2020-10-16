@@ -1,0 +1,2 @@
+export const TOGGLE_FAVORTIE='TOGGLE_FAVORTIE';
+export const SAVE_FILTERS='SAVE_FILTERS';
